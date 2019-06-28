@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ProductDescriptionFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <TextView
+        android:id="@+id/tv_product_description"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:textColor="#000000"
+        android:text="Lorem_ipsum_dolor_sit_amet_eu_diam_scripta_
+        facilis_usu._Vim_erat_persequeris_concludaturque_an_usu_vidit
+        nominati_complectitur_ex._Pri_mundi_albucius_elaboraret_id._Cu_nam_omnium_
+        audire_necessitatibus._Id_vel_verear_legimus_dissentias_mea_oratio_pet"/>
+</FrameLayout>

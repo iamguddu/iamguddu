@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "328292644583",
+    "firebase_url": "https://my-mall-c95fb.firebaseio.com",
+    "project_id": "my-mall-c95fb",
+    "storage_bucket": "my-mall-c95fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328292644583:android:e89aa00facf1c287",
+        "android_client_info": {
+          "package_name": "com.example.gudduroy.mymall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328292644583-n5jvq1l4on8c34f70940j5qpradfc1at.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcYUxH0JoM13hSbua1i3DFYMPGPBfumbA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
